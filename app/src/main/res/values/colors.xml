@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Serenkiy">#e2e2e2</color>
+    <color name="or">#fda540</color>
+    <drawable name="list_focused">#36C170</drawable>
+    <drawable name="list_selected">#9EC136</drawable>
+</resources>
